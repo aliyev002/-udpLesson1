@@ -1,0 +1,14 @@
+C:\Users\Aliye_du26\source\repos\UdpClient\UdpServer\bin\Debug\net8.0\UdpServer.exe
+C:\Users\Aliye_du26\source\repos\UdpClient\UdpServer\bin\Debug\net8.0\UdpServer.deps.json
+C:\Users\Aliye_du26\source\repos\UdpClient\UdpServer\bin\Debug\net8.0\UdpServer.runtimeconfig.json
+C:\Users\Aliye_du26\source\repos\UdpClient\UdpServer\bin\Debug\net8.0\UdpServer.dll
+C:\Users\Aliye_du26\source\repos\UdpClient\UdpServer\bin\Debug\net8.0\UdpServer.pdb
+C:\Users\Aliye_du26\source\repos\UdpClient\UdpServer\obj\Debug\net8.0\UdpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aliye_du26\source\repos\UdpClient\UdpServer\obj\Debug\net8.0\UdpServer.AssemblyInfoInputs.cache
+C:\Users\Aliye_du26\source\repos\UdpClient\UdpServer\obj\Debug\net8.0\UdpServer.AssemblyInfo.cs
+C:\Users\Aliye_du26\source\repos\UdpClient\UdpServer\obj\Debug\net8.0\UdpServer.csproj.CoreCompileInputs.cache
+C:\Users\Aliye_du26\source\repos\UdpClient\UdpServer\obj\Debug\net8.0\UdpServer.dll
+C:\Users\Aliye_du26\source\repos\UdpClient\UdpServer\obj\Debug\net8.0\refint\UdpServer.dll
+C:\Users\Aliye_du26\source\repos\UdpClient\UdpServer\obj\Debug\net8.0\UdpServer.pdb
+C:\Users\Aliye_du26\source\repos\UdpClient\UdpServer\obj\Debug\net8.0\UdpServer.genruntimeconfig.cache
+C:\Users\Aliye_du26\source\repos\UdpClient\UdpServer\obj\Debug\net8.0\ref\UdpServer.dll
